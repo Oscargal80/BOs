@@ -1,0 +1,7 @@
+.container{
+   text-align:center;
+}
+.box{
+   display: inline-block;
+   padding-top: "10px";
+}

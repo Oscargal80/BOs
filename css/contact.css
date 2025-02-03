@@ -1,0 +1,21 @@
+.navi ul {
+    text-align: left;
+    margin-left: 5px;
+    width: 95%;
+    margin: auto;
+    list-style-type: circle;
+    padding-left: 30px;
+}
+@media (max-width: 900px) {
+	.navi h3 {
+		font-size: 26px;
+	}
+	.working-with-me ul {
+		font-size: 	12px;
+	}
+}
+@media (max-width: 768px) {
+	.navi ul {
+		font-size: 	10px !important;
+	}
+}
